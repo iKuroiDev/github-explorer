@@ -76,6 +76,7 @@ export default function ReposList({ user }) {
 							Oops! Algo deu errado, tente novamente!
 						</h3>
 					)}
+
 					{repos &&
 						!isPending &&
 						repos.map((repo) => (

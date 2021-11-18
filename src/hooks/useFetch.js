@@ -1,7 +1,5 @@
 import { useState, useEffect } from 'react';
 
-// import 'whatwg-fetch';
-
 export const useFetch = (url) => {
 	const [data, setData] = useState(null);
 	const [isPending, setIsPending] = useState(false);
@@ -36,10 +34,7 @@ export const useFetch = (url) => {
 			}
 		};
 
-		// Fetch data only if requested
-		// if (isSubmitting) {
 		fetchData();
-		// }
 
 		// cleanup if the component is unmounted during the fetch
 		return () => {

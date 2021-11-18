@@ -47,11 +47,12 @@ export default function UserInfo() {
 								</div>
 								<div className='card__badges'>
 									<span className='badge rounded-pill bg-light text-primary border border-2 border-primary'>
-										<i className='bi bi-people'></i> Followers:{' '}
+										<i className='bi bi-people'></i> Followers: &nbsp;
 										{user.followers}
 									</span>
 									<span className='badge rounded-pill bg-light text-primary border border-2 border-primary'>
 										<i className='bi bi-journals'></i> Public repos:
+										&nbsp;
 										{user.public_repos}
 									</span>
 								</div>
