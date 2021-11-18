@@ -2,7 +2,7 @@
 
 Este projeto consome a API pública do GitHub, exibindo usuários correspondentes a pesquisa realizada juntamente com uma lista dos seus repositórios públicos e repositórios marcados com estrela. Também realiza consultas inserindo manualmente um nome de usuário na barra de endereços, exemplo: `http://localhost:3000/github-explorer/nome_do_usuario`
 
-[Live Demo](https://github.com/iKuroiNeko/github-explorer)
+[Live Demo](https://kuroi.com.br/github-explorer/)
 
 ## Ferramentas
 
