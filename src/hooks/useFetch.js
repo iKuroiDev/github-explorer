@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 
+// import 'whatwg-fetch';
+
 export const useFetch = (url) => {
 	const [data, setData] = useState(null);
 	const [isPending, setIsPending] = useState(false);

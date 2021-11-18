@@ -8,10 +8,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
+import 'whatwg-fetch';
 
 ReactDOM.render(
 	<React.StrictMode>
-		<BrowserRouter basename={''}>
+		<BrowserRouter basename='/github-explorer'>
 			<App />
 		</BrowserRouter>
 	</React.StrictMode>,

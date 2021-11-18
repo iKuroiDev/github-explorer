@@ -5,7 +5,7 @@ import './UserInfo.css';
 
 export default function UserInfo() {
 	const { login } = useParams();
-	const url = 'http://api.github.com/users/' + login;
+	const url = 'https://api.github.com/users/' + login;
 
 	const { data: user, isPending, error } = useFetch(url);
 
