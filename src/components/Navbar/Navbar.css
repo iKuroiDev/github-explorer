@@ -1,0 +1,21 @@
+.navbar {
+	background-image: linear-gradient(135deg, #3c8ce7 10%, #00eaff 100%);
+}
+
+.navbar .navbar-brand a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+}
+
+.navbar__link {
+	color: #fff;
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+}
+
+.navbar__link .bi {
+	font-size: 1.5em;
+	margin-right: 5px;
+}
