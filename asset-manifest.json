@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github-explorer/static/css/main.6e37b3bc.chunk.css",
+    "main.js": "/github-explorer/static/js/main.b5cf59d2.chunk.js",
+    "main.js.map": "/github-explorer/static/js/main.b5cf59d2.chunk.js.map",
+    "runtime-main.js": "/github-explorer/static/js/runtime-main.e62367c9.js",
+    "runtime-main.js.map": "/github-explorer/static/js/runtime-main.e62367c9.js.map",
+    "static/css/2.cf4a96d5.chunk.css": "/github-explorer/static/css/2.cf4a96d5.chunk.css",
+    "static/js/2.13d65df9.chunk.js": "/github-explorer/static/js/2.13d65df9.chunk.js",
+    "static/js/2.13d65df9.chunk.js.map": "/github-explorer/static/js/2.13d65df9.chunk.js.map",
+    "index.html": "/github-explorer/index.html",
+    "static/css/2.cf4a96d5.chunk.css.map": "/github-explorer/static/css/2.cf4a96d5.chunk.css.map",
+    "static/css/main.6e37b3bc.chunk.css.map": "/github-explorer/static/css/main.6e37b3bc.chunk.css.map",
+    "static/js/2.13d65df9.chunk.js.LICENSE.txt": "/github-explorer/static/js/2.13d65df9.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/github-explorer/static/media/bootstrap-icons.7165e5d7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62367c9.js",
+    "static/css/2.cf4a96d5.chunk.css",
+    "static/js/2.13d65df9.chunk.js",
+    "static/css/main.6e37b3bc.chunk.css",
+    "static/js/main.b5cf59d2.chunk.js"
+  ]
+}
