@@ -1,6 +1,6 @@
 {
 	"name": "github-explorer",
-	"homepage": "/github-explorer",
+	"homepage": "/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
